@@ -1,0 +1,148 @@
+{
+	"basics": {
+		"name": "Diego Solorzano",
+		"label": "Senior Front-end Developer",
+		"email": "diegohumberto33@gmail.com",
+		"phone": "",
+		"location": {
+			"city": "Guadalajara",
+			"country": "Mexico",
+			"region": "Jalisco"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"url": "LINK_PENDIENTE"
+			}
+		],
+		"summary": "Senior Front-End Developer with over 8 years of experience engineering high-performance web applications using React.js, Node.js, and Python. Proven track record of leading cross-functional teams to deliver scalable solutions for global enterprises, managing architectures for industry-leading websites. Expert in bridging UX/UI design with technical execution and recently spearheaded the deployment of proprietary AI engines. Dedicated to optimizing user experience, system performance, and CI/CD pipelines."
+	},
+	"skills": [
+		"React.js",
+		"Redux",
+		"React Router",
+		"JavaScript (ES6+)",
+		"Node.js",
+		"HTML5",
+		"Sass/SCSS",
+		"CSS3",
+		"Python",
+		"Technical Leadership",
+		"Microsoft Excel"
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Professional"
+		}
+	],
+	"work": [
+		{
+			"company": "NXP Semiconductors",
+			"position": "Front-end Sw Dev Lead",
+			"location": "Tlaquepaque",
+			"startDate": "2024-04",
+			"endDate": "Present",
+			"highlights": [
+				"Direct front-end architecture and code standard definitions, fostering a culture of best practices and high-quality build processes.",
+				"Collaborate with Product Owners, Architects, and UX/UI designers to translate complex business requirements into scalable Front-End Architectures.",
+				"Spearhead technical research to identify and implement innovative solutions for complex business features.",
+				"Serve as the liaison between business group UX/UI teams and technical development teams to ensure design fidelity.",
+				"Optimize CI/CD pipelines to streamline Front-End implementation and deployment cycles.",
+				"Serve as the Subject Matter Expert (SME) providing mentorship and technical support to development teams.",
+				"Engineered a proprietary AI solution by fine-tuning Mistral-7B using QLoRA on consumer GPUs for CINVESTAV Training.",
+				"Architected a secure, zero-cost inference system, deploying the fine-tuned model via a FastAPI backend with strict output validation."
+			]
+		},
+		{
+			"company": "NXP Semiconductors",
+			"position": "UI Developer Lead",
+			"location": "Tlaquepaque",
+			"startDate": "2021-04",
+			"endDate": "2024-03",
+			"highlights": [
+				"Managed the global corporate website for a leading microcontroller company, overseeing 15,000+ pages across four languages (En, Cn, Kr, Jp).",
+				"Achieved the #1 Industry Website ranking by Bowen Craggs (2022) through continuous performance and UX improvements.",
+				"Led the front-end development team in the creation of modular, reusable web components to modernize nxp.com.",
+				"Built a dynamic React.js application utilizing search engine APIs to display real-time, keyword-driven content.",
+				"Implemented responsive, adaptive UI layouts using Flexbox and modern CSS patterns to ensure cross-device compatibility.",
+				"Coordinated with UX, IT, and Business Analysts to enforce corporate standards regarding security, accessibility, and performance.",
+				"Oversaw the full lifecycle of web applications, from planning and development to testing and deployment."
+			]
+		},
+		{
+			"company": "NXP Semiconductors",
+			"position": "React Dev",
+			"location": "Tlaquepaque",
+			"startDate": "2019-06",
+			"endDate": "2021-03",
+			"highlights": [
+				"Leveraged a modern tech stack including React, Node, TypeScript, and ES6 to build robust web solutions.",
+				"Championed Agile and Scrum methodologies, significantly reducing development lifecycles and improving delivery velocity.",
+				"Partnered with stakeholders to refine user interface requirements and translate concepts into technical specifications.",
+				"Engineered highly responsive UI components, ensuring seamless user interaction and visual consistency.",
+				"Analyzed and enhanced front-end performance, documenting optimizations and managing version updates."
+			]
+		},
+		{
+			"company": "NXP Semiconductors",
+			"position": "Web Publisher",
+			"location": "Tlaquepaque",
+			"startDate": "2017-05",
+			"endDate": "2019-06",
+			"highlights": [
+				"Managed enterprise-level content delivery operations using OpenText CMS.",
+				"Executed the launch of high-priority product landing pages, ensuring timely market release.",
+				"Performed rigorous QA testing and validation to ensure zero-defect deployments.",
+				"Contributed to large-scale corporate initiatives, including the content migration from NXP to Qualcomm and microsite development.",
+				"Constructed compliant web pages adhering to established HTML architectural standards."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Universidad del Valle de Mexico",
+			"area": "Computer Science",
+			"studyType": "Bachelor",
+			"startDate": "2014-09",
+			"endDate": "2017-09"
+		}
+	],
+	"courses": [
+		{
+			"name": "Artificial Intelligence",
+			"institution": "CINVESTAV",
+			"startDate": "2025-08",
+			"endDate": "2025-11"
+		},
+		{
+			"name": "React JS",
+			"institution": "Platzi",
+			"startDate": "2019-09",
+			"endDate": "2019-09"
+		},
+		{
+			"name": "React Router",
+			"institution": "Platzi",
+			"startDate": "2020-01",
+			"endDate": "2020-01"
+		},
+		{
+			"name": "ES6",
+			"institution": "Platzi",
+			"startDate": "2020-08",
+			"endDate": "2020-08"
+		}
+	],
+	"references": [
+		{
+			"name": "Luis Duran",
+			"reference": "+52 33 14 51 7703"
+		},
+		{
+			"name": "Dorian Morones",
+			"company": "Raptor Maps",
+			"reference": "+1 775 412 8247"
+		}
+	]
+}
